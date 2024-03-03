@@ -1,0 +1,182 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.row-nav {
+    width: 40%;
+    margin-left: auto;
+}
+
+.br {
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+nav{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.tect {
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+.cont {
+    background-image: url(../Assests/images/backgound\ 2.jpg);
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    margin-top: 100px;
+}
+
+/* .cord{
+    justify-content: space-between;
+} */
+
+.col1 {
+    height: 200px;
+    background-image: url(../Assests/images/card\ 1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.col2 {
+    height: 200px;
+    background-image: url(../Assests/images/card\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.col3 {
+    height: 200px;
+    background-image: url(../Assests/images/card\ 3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.col4 {
+    height: 200px;
+    background-image: url(../Assests/images/card\ 4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.para {
+    background-color: rgb(230, 228, 228);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 5px;
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+
+.back1 {
+    height: 180px;
+    background-image: url(../Assests/images/1st.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+
+}
+
+.back2 {
+    height: 180px;
+    background-image: url(../Assests/images/2nd.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.back3 {
+    height: 180px;
+    background-image: url(../Assests/images/3rd.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.back4 {
+    height: 180px;
+    background-image: url(../Assests/images/4th.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btm {
+
+    text-decoration: none;
+    color: white;
+    background-color: rgb(185, 184, 184);
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+}
+
+.btr a {
+    margin-top: 15px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 5px 15px;
+    text-transform: uppercase;
+    font-weight: 400;
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+input {
+    min-width: 100%;
+    opacity: 0.7;
+    padding: 3px;
+}
+
+.bag {
+    height: 70vh;
+    background-image: url(../Assests/images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+
+.paro {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+    font-weight: 300;
+}
+
+.paro a {
+    color: white;
+}
+
+.logo {
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+}
+
+.curd p {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 50%;
+}
